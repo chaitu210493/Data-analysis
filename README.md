@@ -12,3 +12,9 @@
 3.[Election data analysis](https://elections.huffingtonpost.com/pollster) - using this data set we will try to answer some aggregated poll data to answer some interesting questions
 
 *Note: This data analysed with python 2.7  and some libraries that are not supported by python anymore, check the latest documentation [here](https://docs.python.org/2.7/)*
+
+*if you are interested in data analysis of large datasets here are some links public datasets*
+
+- http://www.data.gov/
+- http://aws.amazon.com/public-data-sets/
+- http://www.google.com/publicdata/directory
