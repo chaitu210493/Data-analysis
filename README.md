@@ -7,4 +7,4 @@
 
 *Basically this is a ML challenge, the dataset has been used for learning purposes*
 
-2. [Stock market data analysis](https://help.yahoo.com/kb/download-historical-data-yahoo-finance-sln2311.html) - With this data set we will try to predict the risk associated with investing in particular stocks, the stocks we use here are of *Apple, Google, Microsoft, Amazon*
+2.[Stock market data analysis](https://help.yahoo.com/kb/download-historical-data-yahoo-finance-sln2311.html) - With this data set we will try to predict the risk associated with investing in particular stocks, the stocks we use here are of *Apple, Google, Microsoft, Amazon*
